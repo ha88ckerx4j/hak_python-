@@ -1,19 +1,19 @@
-<h1 align="center">🕵️‍♂️ ShadowCipher | Ethical Hacker & Exploit Developer</h1>
+<h1 align="center">🥷 محمد مهدی | طاهرهِ هک و امنیت</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=500&color=00FF00&center=true&vCenter=true&width=435&lines=Cybersecurity+Researcher;Python+Exploit+Dev;JavaScript+Offensive+Tools" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=26&duration=3500&pause=500&color=00FF00&center=true&vCenter=true&width=500&lines=هکرِ اخلاقی + امنیت‌کار;متخصص پایتون و جاوااسکریپت;توسعه‌دهنده ابزارهای آفند;عاشق کد زدن تو دل دارک وب" />
 </p>
 
 <p align="center">
-  🔥 <strong>Rooting deep into systems • Breaking • Fixing • Securing</strong> 🔥
+  🇮🇷 <strong>هکر ایرانی | تیم طاهره | نفوذ امنیتی | اخلاقی و حرفه‌ای</strong> 🇮🇷
 </p>
 
 ---
 
-## 🧠 About Me
+## 🧠 **محمد مهدی** کیست؟  
 
 ```diff
-+ Ethical Hacker | Red Team Enthusiast
-- Bug Bounty Hunter | CTF Player
-! Python & JS Malware/Exploit Developer
-# OWASP | Reverse Engineering | Network Pentesting
++ متخصص امنیت تهاجمی (Red Team)
+! شکارچی باگ بانتی | توسعه‌دهنده اکسپلویت
+- عاشق پایتون 🐍 و جاوااسکریپت ☠️
+# عضو گروه امنیتی طاهره — فوریتی و پنتر
